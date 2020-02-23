@@ -1,0 +1,28 @@
+[global_config]
+  borderless = True
+  enabled_plugins = ,
+  inactive_color_offset = 1.0
+  title_font = Monospace 12
+  title_use_system_font = False
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#1e1e1e"
+    background_darkness = 0.6
+    cursor_color = "#eaeaea"
+    font = Roboto Mono 14
+    foreground_color = "#dfdfdf"
+    icon_bell = False
+    palette = "#000000:#cc6666:#b5bd68:#f0c674:#81a2be:#b294bb:#8abeb7:#ffffff:#000000:#cc6666:#b5bd68:#f0c674:#81a2be:#b294bb:#8abeb7:#ffffff"
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False

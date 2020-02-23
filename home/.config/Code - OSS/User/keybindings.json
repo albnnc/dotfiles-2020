@@ -1,0 +1,136 @@
+[
+  {
+    "key": "ctrl+s",
+    "command": "workbench.action.files.saveAll"
+  },
+  {
+    "key": "alt+-",
+    "command": "insert-unicode.insertTextExact",
+    "args": "rightwards arrow"
+  },
+  {
+    "key": "alt+w",
+    "command": "insert-unicode.insertTextExact",
+    "args": "greek small letter omega"
+  },
+  {
+    "key": "ctrl+alt+w",
+    "command": "insert-unicode.insertTextExact",
+    "args": "greek capital letter omega"
+  },
+  {
+    "key": "alt+s",
+    "command": "insert-unicode.insertTextExact",
+    "args": "greek small letter sigma"
+  },
+  {
+    "key": "ctrl+alt+s",
+    "command": "insert-unicode.insertTextExact",
+    "args": "greek capital letter sigma"
+  },
+  {
+    "key": "alt+v",
+    "command": "insert-unicode.insertTextExact",
+    "args": "greek small letter nu"
+  },
+  {
+    "key": "alt+n",
+    "command": "insert-unicode.insertTextExact",
+    "args": "greek small letter eta"
+  },
+  {
+    "key": "alt+m",
+    "command": "insert-unicode.insertTextExact",
+    "args": "greek small letter mu"
+  },
+  {
+    "key": "alt+e",
+    "command": "insert-unicode.insertTextExact",
+    "args": "greek small letter epsilon"
+  },
+  {
+    "key": "alt+d",
+    "command": "insert-unicode.insertTextExact",
+    "args": "greek small letter delta"
+  },
+  {
+    "key": "ctrl+alt+d",
+    "command": "insert-unicode.insertTextExact",
+    "args": "greek capital letter delta"
+  },
+  {
+    "key": "alt+]",
+    "command": "insert-unicode.insertTextExact",
+    "args": "partial differential"
+  },
+  {
+    "key": "alt+g",
+    "command": "insert-unicode.insertTextExact",
+    "args": "greek small letter gamma"
+  },
+  {
+    "key": "alt+q",
+    "command": "insert-unicode.insertTextExact",
+    "args": "greek small letter theta"
+  },
+  {
+    "key": "alt+t",
+    "command": "insert-unicode.insertTextExact",
+    "args": "greek small letter tau"
+  },
+  {
+    "key": "alt+a",
+    "command": "insert-unicode.insertTextExact",
+    "args": "greek small letter alpha"
+  },
+  {
+    "key": "alt+b",
+    "command": "insert-unicode.insertTextExact",
+    "args": "greek small letter beta"
+  },
+  {
+    "key": "alt+p",
+    "command": "insert-unicode.insertTextExact",
+    "args": "greek small letter pi"
+  },
+  {
+    "key": "ctrl+alt+p",
+    "command": "insert-unicode.insertTextExact",
+    "args": "Planck Constant Over Two Pi"
+  },
+  {
+    "key": "ctrl+alt+g",
+    "command": "insert-unicode.insertTextExact",
+    "args": "greek capital letter gamma"
+  },
+  {
+    "key": "alt+z",
+    "command": "insert-unicode.insertTextExact",
+    "args": "Greek Small Letter Zeta"
+  },
+  {
+    "key": "alt+i",
+    "command": "insert-unicode.insertTextExact",
+    "args": "infinity"
+  },
+  {
+    "key": "alt+\\",
+    "command": "insert-unicode.insertTextExact",
+    "args": "integral"
+  },
+  {
+    "key": "alt+[",
+    "command": "insert-unicode.insertTextExact",
+    "args": "square root"
+  },
+  {
+    "key": "ctrl+alt+\\",
+    "command": "insert-unicode.insertTextExact",
+    "args": "contour integral"
+  },
+  {
+    "key": "alt+h",
+    "command": "insert-unicode.insertTextExact",
+    "args": "planck constant over two pi"
+  }
+]

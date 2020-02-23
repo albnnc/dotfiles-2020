@@ -1,0 +1,38 @@
+{
+  "workbench.editor.showTabs": false,
+  "window.titleBarStyle": "custom",
+  "window.enableMenuBarMnemonics": false,
+  "window.menuBarVisibility": "hidden",
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true,
+  "window.zoomLevel": 1,
+  "files.associations": {
+    "*.schema": "json"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "html.format.indentHandlebars": true,
+  "html.format.maxPreserveNewLines": 0,
+  "matlab.mlintpath": "/home/albnnc/Matlab/R2019b/bin/glnxa64/mlint",
+  "gitlens.currentLine.enabled": false,
+  "python.linting.pylintArgs": [
+    "--extension-pkg-whitelist=cv2"
+  ],
+  "[xml]": {
+    "editor.formatOnSave": false,
+  },
+  "xmlTools.splitAttributesOnFormat": true,
+  "xmlTools.removeCommentsOnMinify": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.ignoreMissingGitWarning": true,
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "C_Cpp.updateChannel": "Insiders",
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "editor.fontFamily": "'Roboto Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'"
+}
