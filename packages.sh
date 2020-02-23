@@ -8,7 +8,7 @@ pacman -S \
 	dhcpcd \
 	dialog \
 	dmenu \
-	feh \ 
+	feh \
 	netctl \
 	network-manager-applet \
 	networkmanager-openvpn \
@@ -20,7 +20,7 @@ pacman -S \
 	peek \
 	pulseaudio \
 	pulseaudio-alsa \
-  rsync \
+    rsync \
 	sxhkd \
 	terminator \
 	thunar \
