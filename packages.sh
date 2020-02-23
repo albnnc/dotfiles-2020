@@ -1,14 +1,21 @@
 #!/bin/bash
 
 pacman -S \
+  acpi \
+  arandr \
 	bspwm \
 	chromium \
+  clang \
 	code \
 	cpupower \
 	dhcpcd \
 	dialog \
 	dmenu \
 	feh \
+  gcc \
+  gnuplot \
+  imagemagick \
+  maim \
 	netctl \
 	network-manager-applet \
 	networkmanager-openvpn \
@@ -20,16 +27,24 @@ pacman -S \
 	peek \
 	pulseaudio \
 	pulseaudio-alsa \
-    rsync \
+  python \
+  python-pip \
+  ranger \
+  rsync \
+  sudo \
 	sxhkd \
 	terminator \
 	thunar \
 	tint2 \
+  ttf-roboto \
+  ttf-roboto-mono \
+  unzip \
 	vim \
 	wpa_supplicant \
-	xf86-input-synaptics \
+  xclip \
 	xf86-video-intel \
 	xorg \
 	xorg-server \
 	xorg-xbacklight \
-	xorg-xinit
+	xorg-xinit \
+  zip
