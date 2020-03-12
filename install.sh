@@ -1,4 +1,4 @@
 #!/bin/bash
 
-rsync -avI ./home/ ~
-rsync -avI ./etc/ /etc
+rsync -avcI ./home/ ~
+rsync -avcI ./etc/ /etc

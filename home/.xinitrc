@@ -1,5 +1,4 @@
-export MOZ_USE_XINPUT2=1
-
+xrandr --auto
 xsetroot -cursor_name left_ptr
 
 feh --bg-fill ~/.config/bspwm/wallpaper.jpg &
