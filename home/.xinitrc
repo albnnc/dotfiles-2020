@@ -1,5 +1,4 @@
 xsetroot -cursor_name left_ptr
-intel-virtual-output
 ~/.xrandr.sh
 
 feh --bg-fill ~/.config/bspwm/wallpaper.jpg &
