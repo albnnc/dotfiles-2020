@@ -37,7 +37,6 @@ pacman -S \
   sxhkd \
   terminator \
   thunar \
-  tint2 \
   ttf-roboto \
   ttf-roboto-mono \
   unzip \
@@ -50,3 +49,8 @@ pacman -S \
   xorg-xbacklight \
   xorg-xinit \
   zip
+
+# AUR:
+# 
+# Polybar
+# https://aur.archlinux.org/polybar.git
